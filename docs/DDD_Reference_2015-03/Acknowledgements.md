@@ -17,7 +17,13 @@ domain某一方面的抽象，用于描述及解决domain此方面的相关问�
 ### context & bounded context
 context是指决定术语（包括model等）、陈述含义的一个范围。bounded context是指这个context是有界限/边界的，并通常以此边界来划分子系统、Team。
 ### ubiquitous language
-在一个bounded context中，被一个团队所统一使用的术语。
+在一个bounded context中，被一个团队所统一使用的术语。包括开发人员之间的统一，也包括开发人员与领域专家之间的统一。
+因此model的抽象也是在开发人员和领域专家共同讨论下完成的。
+统一语言的变化往往伴随着model的调整。
+### Continuous Integration
+当多名成员在一个界限上下文中工作时，model都会有着碎片化的趋势，因此采用持续集成减少每次变化的量以及时发现问题。
+### Model-Driven Design
+
 
 ## DDD落地相关技术
 1. CQRS

@@ -25,6 +25,7 @@ context是指决定术语（包括model等）、陈述含义的一个范围。bo
 ### Model-Driven Design
 
 
+
 ## DDD落地相关技术
 1. CQRS
 2. Event Sourcing

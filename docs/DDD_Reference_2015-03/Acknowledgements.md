@@ -53,5 +53,7 @@ https://www.dddcommunity.org/uncategorized/evans_2004/
 
 ## 相关书籍
 The big Blue Book: 《Domain-Driven Design, Tackling Complexity in the Heart of Software》
+
 The big Red Book: 《Implementing Domain Driven Design》
+
 《DDD with Naked Objects》

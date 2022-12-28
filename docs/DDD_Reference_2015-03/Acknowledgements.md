@@ -140,7 +140,7 @@ public class Price {
 3. Entity有生命周期，Value Object没有
 4. Value Object为不可变对象
 5. Value Object依赖于Entity存在；如果觉得Value Object重要程度提升了，可以升级为Entity，有无id也是重要程度的一个体现（个人观点）
-6. 我们只关心 Value Objects 是什麼，而不关心他们是谁（个人观点）
+6. 我们只关心 Value Objects 是什么，而不关心他们是谁（个人观点）
 
 ## Aggregate & AggregateRoot
 當我們的領域擁有越來越多的 Entity 與 Value Object，根據業務規則的需求，模型之間關聯性的複雜度可能會超出我們的想像。
